@@ -42,7 +42,7 @@ The system continuously monitors environmental conditions using different sensor
 ![System Architecture](images/system_architecture.png)
 
 ### Software Flowchart
-![Software Flowchart](images/software_flowchart.png)
+![Software Flowchart](images/Software_flowchart.png)
 
 ### Circuit Diagram
 ![Circuit Diagram](images/circuit_diagram.png)
