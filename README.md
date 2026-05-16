@@ -38,6 +38,7 @@ The system continuously monitors environmental conditions using different sensor
 
 ## Project Images
 
+https://github.com/siddeshwaranvp59/smart-home-automation-system/blob/main/images/Software%20flowchart.%20.png
 ## Applications
 - Smart Home Systems
 - Safety and Security Monitoring
