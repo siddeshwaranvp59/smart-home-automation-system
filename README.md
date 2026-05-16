@@ -51,7 +51,7 @@ The system continuously monitors environmental conditions using different sensor
 ![Block Diagram](images/block_diagram.png)
 
 ### Final Output
-![Final Output](images/final_output.jpg)
+![Final Output](images/final_output.png)
 
 
 ## Applications
