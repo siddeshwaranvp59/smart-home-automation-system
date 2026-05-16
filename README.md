@@ -36,6 +36,8 @@ This project presents a Smart Home Automation System developed using Arduino and
 The system continuously monitors environmental conditions using different sensors connected to the Arduino microcontroller. Based on the sensor readings, the controller automatically performs actions such as turning ON lights in low-light conditions, activating the fan during temperature rise and triggering alerts during smoke detection. This enables intelligent and automated home monitoring.
 
 
+## Project Images
+
 ## Applications
 - Smart Home Systems
 - Safety and Security Monitoring
